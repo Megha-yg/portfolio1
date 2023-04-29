@@ -15,7 +15,7 @@ function Contact() {
                <h1>Login</h1>
                <input className={styles.inputS} name="Username"placeholder="Username"/>
                <input className={styles.inputS} name="Password"placeholder="Password"/>
-               
+               <p>aksdmasndpiansodi</p>
                
                <button className={styles.btn}>Login</button> 
      
