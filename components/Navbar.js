@@ -23,10 +23,12 @@ function Navbar() {
                    <Link to="portfolio" smooth={true}><a>Books</a></Link>
                </li>
                <li className={styles.listItems}>
+                  <Link ><a>SignUp</a></Link>
                  
 
                </li>
                <li className={styles.listItems}>
+                  <Link ><a>Login</a></Link>
                    
                </li>
            
